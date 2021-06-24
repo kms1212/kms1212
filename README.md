@@ -1,4 +1,4 @@
-[![GitHub Pages]](https://kms1212.github.io)
-[![Personal Webpage]](https://kms1212.kro.kr)
+[GitHub Pages](https://kms1212.github.io)
+[Personal Webpage](https://kms1212.kro.kr)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms1212)](https://github.com/anuraghazra/github-readme-stats)
