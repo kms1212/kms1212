@@ -4,7 +4,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kms1212)](https://github.com/anuraghazra/github-readme-stats)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kms1212&layout=compact&langs_count=10&cache_seconds=1800)
 
-## Languages or APIs I'm using or learning currently
+## Languages or API/Frameworks I'm using or learning currently
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/> <img src="https://img.shields.io/badge/AppleScript-000000?style=flat-square&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-FFD500?style=flat-square&logo=Shell&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
