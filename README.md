@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-092E20?style=flat-square&logo=Electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNU%20Bison-A42E2B?style=flat-square&logo=GNU&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNU%20Flex-A42E2B?style=flat-square&logo=GNU&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
