@@ -1,12 +1,11 @@
 # README
 
-## GitHub Stats
 <div align="center">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kms1212)](https://github.com/anuraghazra/github-readme-stats) <br/>
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kms1212&layout=compact&langs_count=10&cache_seconds=1800) <br/>
-![](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms1212) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=kms1212&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kms1212&theme=github-dark&hide_border=true)](https://git.io/streak-stats) <br/>
+![Baekjoon OJ Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms1212)
   
 </div>
 
@@ -15,29 +14,31 @@
 <div align="center">
 
 ### Frameworks
-![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
-![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 
 ### Languages
-![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![](https://img.shields.io/badge/C%23-064F8C?style=flat-square&logo=C%20Sharp&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Java-007396?style=flat-square)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-![](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=Perl&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust&logoColor=white)
-![](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
-![](https://img.shields.io/badge/x86%20Assembly-0071C5?style=flat-square&logo=Intel&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-064F8C?style=flat-square&logo=C%20Sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=Perl&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-0071C5?style=flat-square&logo=Intel&logoColor=white)
 
 ### Markup
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white)
 
 ### Utilities / Tools
 ![](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white)
