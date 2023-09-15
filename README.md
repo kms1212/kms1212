@@ -68,6 +68,11 @@
 
 </div>
 
+## Histories
+- 부산광역시교육청 미래교육원 정보영재과정 수료
+- 부산대학교 과학영재교육원 IT-수학융합 심화,사사과정 수료
+- 2020년 대학부설 과학영재교육원 사사과정 연구성과 발표대회 한국과학기술원 총장상
+- 2022년 AI기반 프로젝트 경진대회 1위 (부산광역시 교육감상)
 
 ## Links
 <a href="https://github.com/kms1212" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
