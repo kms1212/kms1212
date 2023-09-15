@@ -9,6 +9,7 @@
   
 </div>
 
+**Using macOS mainly for development**
 
 ## Technologies
 <div align="center">
@@ -47,22 +48,23 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white)
 
 ### Utilities / Tools
-![](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![](https://img.shields.io/badge/GNU%20Bison-A42E2B?style=flat-square&logo=GNU&logoColor=white)
-![](https://img.shields.io/badge/GNU%20Flex-A42E2B?style=flat-square&logo=GNU&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![GNU Bison](https://img.shields.io/badge/GNU%20Bison-A42E2B?style=flat-square&logo=GNU&logoColor=white)
+![GNU Flex](https://img.shields.io/badge/GNU%20Flex-A42E2B?style=flat-square&logo=GNU&logoColor=white)
 
 ### Database
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/Oracle%20SQL-CC6699?style=flat-square&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-CC6699?style=flat-square&logo=Oracle&logoColor=white)
 
-### IDEs
-![](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
-![](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
-![](https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=XCode&logoColor=white)
+### Development Environments
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
+![XCode](https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=XCode&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=KiCad&logoColor=white)
 
 </div>
 
