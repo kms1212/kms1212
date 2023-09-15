@@ -13,6 +13,12 @@
 ## Technologies
 <div align="center">
 
+### ISAs
+![m68k](https://img.shields.io/badge/m68k-E1140A?style=flat-square&logo=Motorola&logoColor=white)
+![x86](https://img.shields.io/badge/x86-0071C5?style=flat-square&logo=Intel&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-2961B8?style=flat-square&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=Arm&logoColor=white)
+
 ### Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
