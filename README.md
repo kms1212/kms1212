@@ -9,7 +9,8 @@
   
 </div>
 
-**Using macOS mainly for development**
+Personal Characteristics:
+- Using macOS mainly for development
 
 ## Technologies
 <div align="center">
