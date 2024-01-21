@@ -8,7 +8,7 @@
 ![Baekjoon OJ Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms1212)
   
 </div>
-**Currently Working on: [EHBCHomeBrewComputer](https://github.com/ExtensibleHomeBrewComputer)
+**Currently Working on** [ExtensibleHomeBrewComputer](https://github.com/extensiblehomebrewcomputer)
 
 ## Technologies
 <div align="center">
