@@ -8,9 +8,7 @@
 ![Baekjoon OJ Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms1212)
   
 </div>
-
-Personal Characteristics:
-- Using macOS mainly for development
+**Currently Working on: (EHBCHomeBrewComputer)[https://github.com/ExtensibleHomeBrewComputer]
 
 ## Technologies
 <div align="center">
