@@ -37,6 +37,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-000000?style=flat-square)
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-0071C5?style=flat-square&logo=Intel&logoColor=white)
 
 ### Markup
