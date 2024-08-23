@@ -19,6 +19,7 @@
 ![x86](https://img.shields.io/badge/x86-0071C5?style=flat-square&logo=Intel&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-2961B8?style=flat-square&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=Arm&logoColor=white)
+![MOS 6502](https://img.shields.io/badge/MOS%206502-000000?style=flat-square&logoColor=white)
 
 ### Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
