@@ -41,6 +41,7 @@
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-000000?style=flat-square)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat-square)
 
 ### Markup
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -70,3 +71,4 @@
 ## Links
 <a href="https://github.com/kms1212" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://kms1212.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub%20Pages&logoColor=white"/></a>
+<a href="https://velog.io/@kms1212" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
