@@ -29,6 +29,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 
 ### Languages
+![Ada](https://img.shields.io/badge/Ada-000000?style=flat-square)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-064F8C?style=flat-square&logo=C%20Sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
