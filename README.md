@@ -2,6 +2,12 @@
 
 <div align="center">
 
+![banner](gh-banner.png)
+
+</div>
+
+<div align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kms1212&theme=gruvbox) <br/>
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kms1212&layout=compact&langs_count=10&cache_seconds=1800&theme=gruvbox) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=kms1212&theme=github-dark&hide_border=true)](https://git.io/streak-stats) <br/>
@@ -9,7 +15,7 @@
   
 </div>
 
-**[ExtensibleHomeBrewComputer](https://github.com/extensiblehomebrewcomputer)**
+**[EHBC Project](https://github.com/ehbc-project)**
 
 ## Technologies
 <div align="center">
