@@ -31,6 +31,8 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 
