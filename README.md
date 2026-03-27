@@ -1,23 +1,37 @@
 # README
 
-<div align="center">
-
-![banner](gh-banner.png)
-
-</div>
+## 🧠 Systems Focus
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kms1212&theme=gruvbox) <br/>
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kms1212&layout=compact&langs_count=10&cache_seconds=1800&theme=gruvbox) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=kms1212&theme=github-dark&hide_border=true)](https://git.io/streak-stats) <br/>
-![Baekjoon OJ Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms1212)
-  
+**Systems Software Engineer focused on operating systems, kernel architecture, and low-level system design**
+
 </div>
 
-**[EHBC Project](https://github.com/ehbc-project)**
+- Developing a custom operating system (**foliOS / Strata Kernel**)
+- Exploring hybrid kernel architectures leveraging hardware primitives (MPK, PCID)
+- Building low-level runtime systems and experimenting with toolchains
 
-## Technologies
+## 🚀 Core Projects
+
+### 🧠 foliOS / Strata Kernel
+- Designed a new kernel architecture (Ambikernel)
+- Built unified syscall interface and object-based resource model
+- Exploring hardware-assisted isolation (MPK)
+
+### 🔧 Toolchain Experiments
+- Modified GCC/Binutils toolchain
+- Replaced archive libraries with single relocatable ELF objects
+- Investigating link-time optimization and binary structure
+
+### 🧩 EHBC Project
+- Homebrew computer system design and implementation
+- Hardware-software co-design including firmware and system software
+
+## 🧩 Technical Breadth
+
+> Broad experience across multiple domains including systems, web, application development, and hardware-level programming.
+
 <div align="center">
 
 ### ISAs
@@ -26,15 +40,6 @@
 ![AVR](https://img.shields.io/badge/AVR-2961B8?style=flat-square&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=Arm&logoColor=white)
 ![MOS 6502](https://img.shields.io/badge/MOS%206502-000000?style=flat-square&logoColor=white)
-
-### Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=Expo&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 
 ### Languages
 ![Ada](https://img.shields.io/badge/Ada-000000?style=flat-square)
@@ -53,18 +58,22 @@
 ![VHDL](https://img.shields.io/badge/VHDL-000000?style=flat-square)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat-square)
 
-### Markup
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white)
+### Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=Expo&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 
-### Utilities / Tools
+### Tools / Utilities
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 ![GNU Bison](https://img.shields.io/badge/GNU%20Bison-A42E2B?style=flat-square&logo=GNU&logoColor=white)
 ![GNU Flex](https://img.shields.io/badge/GNU%20Flex-A42E2B?style=flat-square&logo=GNU&logoColor=white)
+![Meson](https://img.shields.io/badge/Meson-402780?style=flat-square)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -72,13 +81,24 @@
 
 </div>
 
-## Histories
-- 부산광역시교육청 미래교육원 정보영재과정 수료
-- 부산대학교 과학영재교육원 IT-수학융합 심화,사사과정 수료
-- 2020년 대학부설 과학영재교육원 사사과정 연구성과 발표대회 한국과학기술원 총장상
+## 📊 Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kms1212&theme=gruvbox) <br/>
+![Most used languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kms1212&layout=compact&langs_count=10&cache_seconds=1800&theme=gruvbox) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kms1212&theme=github-dark&hide_border=true)](https://git.io/streak-stats) <br/>
+![Baekjoon OJ Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms1212)
+
+</div>
+
+## 🏆 Histories
+- 부산광역시교육청 미래교육원 정보영재과정 수료  
+- 부산대학교 과학영재교육원 IT-수학융합 심화,사사과정 수료  
+- 2020년 대학부설 과학영재교육원 사사과정 연구성과 발표대회 한국과학기술원 총장상  
 - 2022년 AI기반 프로젝트 경진대회 1위 (부산광역시 교육감상)
 
-## Links
+## 🔗 Links
 <a href="https://github.com/kms1212" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://kms1212.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub%20Pages&logoColor=white"/></a>
 <a href="https://velog.io/@kms1212" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
