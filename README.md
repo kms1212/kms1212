@@ -30,7 +30,6 @@ An experimental operating system built around **Strata**, a kernel exploring the
 
 * [**ofsl2**](https://github.com/kms1212/ofsl2) — C library for manipulating file-system structures on drives and disk images, with a C++ wrapper
 * [**WxWave**](https://github.com/kms1212/WxWave) — GTKWave alternative written in C++ and wxWidgets
-* [**JSIS**](https://github.com/kms1212/JSIS) — intranet service server for students of Busan Jung-ang High School
 * [**2022-busanedu-ai-project**](https://github.com/kms1212/2022-busanedu-ai-project) — AI-based project, 1st place at the 2022 Busan AI project competition
 * [**pyApplicationFramework**](https://github.com/kms1212/pyApplicationFramework) — SwiftUI-style declarative GUI framework for Python
 
