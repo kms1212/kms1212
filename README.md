@@ -145,4 +145,4 @@ An experimental operating system built around **Strata**, a kernel exploring the
 
 ## Links
 
-<a href="https://github.com/kms1212" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://kms1212.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub%20Pages&logoColor=white"/></a> <a href="https://velog.io/@kms1212" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
+<a href="https://kms1212.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-kms1212.github.io-1a1a18?style=flat-square"/></a> <a href="https://github.com/kms1212" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
