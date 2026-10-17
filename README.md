@@ -28,13 +28,6 @@ Extensible Homebrew Computer, a homebrew computer with custom hardware, firmware
 
 [hardware-design](https://github.com/ehbc-project/hardware-design) · [ehbc-firmware](https://github.com/ehbc-project/ehbc-firmware) · [emos](https://github.com/ehbc-project/emos)
 
-## Selected projects
-
-* [ofsl2](https://github.com/kms1212/ofsl2): C library for reading and writing file-system structures on drives and disk images, with a C++ wrapper
-* [WxWave](https://github.com/kms1212/WxWave): waveform viewer in C++ and wxWidgets, as an alternative to GTKWave
-* [2022-busanedu-ai-project](https://github.com/kms1212/2022-busanedu-ai-project): AI project that won 1st place at the 2022 Busan AI project competition
-* [pyApplicationFramework](https://github.com/kms1212/pyApplicationFramework): declarative GUI framework for Python in the style of SwiftUI
-
 ## Technical experience
 
 ### Systems & Hardware
