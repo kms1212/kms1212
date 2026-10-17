@@ -1,39 +1,41 @@
 # Minsu Kwon (권민수)
 
-**Systems researcher — from ISA to OS · Full-stack web & app developer**
+Systems research from the instruction set up. Full-stack web and app development for a living.
 
-I work on **computer architecture and systems**: ISA design, processor implementation, compilers, ABIs, operating systems, and low-level system software. I am most interested in the interfaces between those layers — what each one should expose, what it should hide, and how a decision at one level ripples through the rest of the stack.
+I work on computer architecture and systems: ISA design, processor implementation, compilers, ABIs, operating systems, and low-level system software. Most of my questions are about the interfaces between those layers: what each one should expose and hide, and how a decision in one layer changes the others.
 
-My work is implementation-driven. I build experimental systems end to end to see whether an idea stays coherent once it has to work with its surrounding layers, and feed those constraints back into the design. Outside research, I build web services and applications professionally.
+I test ideas by building them. An experimental system has to work with the layers around it, and whatever breaks there goes back into the design.
 
-## What I'm Working On
+## Current work
 
-### [Bedrock](https://github.com/bedrock-proj)
+### [Bedrock](https://bedrock-proj.github.io/)
 
-A 64-bit ISA and systems-software specification: variable-length encoding, restartable repeated execution, an optional scalable-vector extension, an LP64 C ABI, an executable Sail model, an LLVM toolchain, and an emulator.
+A 64-bit ISA and systems-software specification with variable-length encoding, restartable repeated instructions, and an optional scalable-vector extension. The project includes an LP64 C ABI, an executable Sail model, an LLVM toolchain, an emulator, and a DOOM port.
 
-[spec](https://github.com/bedrock-proj/spec) · [reference](https://bedrock-proj.github.io/spec/) · [llvm-project](https://github.com/bedrock-proj/llvm-project) · [doomgeneric](https://github.com/bedrock-proj/doomgeneric) (DOOM port)
+[site](https://bedrock-proj.github.io/) · [reference](https://bedrock-proj.github.io/spec/) · [spec](https://github.com/bedrock-proj/spec) · [llvm-project](https://github.com/bedrock-proj/llvm-project) · [doomgeneric](https://github.com/bedrock-proj/doomgeneric)
+
+## On hold
 
 ### [foliOS / Strata](https://github.com/foliOS-project)
 
-An experimental operating system built around **Strata**, a kernel exploring the *Ambikernel* model — process isolation as the baseline, with signed modules allowed into kernel-adjacent domains when the lower transition cost justifies it. Comes with its own ABI, toolchain, and interface definition language.
+An experimental operating system built around Strata, a kernel exploring the Ambikernel model. Processes stay isolated by default, and signed modules can run in kernel-adjacent domains when the lower transition cost is worth it. It has its own ABI, toolchain, and interface definition language.
 
 [foliOS](https://github.com/foliOS-project/foliOS) · [foliSDK](https://github.com/foliOS-project/foliSDK) · [sidlc](https://github.com/foliOS-project/sidlc) · [sma](https://github.com/foliOS-project/sma)
 
 ### [EHBC](https://github.com/ehbc-project)
 
-*Extensible Homebrew Computer* — a long-running homebrew computer project spanning custom hardware, firmware, boot environments, and operating-system bring-up.
+Extensible Homebrew Computer, a homebrew computer with custom hardware, firmware, and EMOS, the operating system that later became foliOS.
 
 [hardware-design](https://github.com/ehbc-project/hardware-design) · [ehbc-firmware](https://github.com/ehbc-project/ehbc-firmware) · [emos](https://github.com/ehbc-project/emos)
 
-## Selected Projects
+## Selected projects
 
-* [**ofsl2**](https://github.com/kms1212/ofsl2) — C library for manipulating file-system structures on drives and disk images, with a C++ wrapper
-* [**WxWave**](https://github.com/kms1212/WxWave) — GTKWave alternative written in C++ and wxWidgets
-* [**2022-busanedu-ai-project**](https://github.com/kms1212/2022-busanedu-ai-project) — AI-based project, 1st place at the 2022 Busan AI project competition
-* [**pyApplicationFramework**](https://github.com/kms1212/pyApplicationFramework) — SwiftUI-style declarative GUI framework for Python
+* [ofsl2](https://github.com/kms1212/ofsl2): C library for reading and writing file-system structures on drives and disk images, with a C++ wrapper
+* [WxWave](https://github.com/kms1212/WxWave): waveform viewer in C++ and wxWidgets, as an alternative to GTKWave
+* [2022-busanedu-ai-project](https://github.com/kms1212/2022-busanedu-ai-project): AI project that won 1st place at the 2022 Busan AI project competition
+* [pyApplicationFramework](https://github.com/kms1212/pyApplicationFramework): declarative GUI framework for Python in the style of SwiftUI
 
-## Technical Experience
+## Technical experience
 
 ### Systems & Hardware
 
@@ -135,9 +137,9 @@ An experimental operating system built around **Strata**, a kernel exploring the
 
 </div>
 
-## Awards & Programs
+## Awards and programs
 
-* 2022 AI 기반 프로젝트 경진대회 1위 (부산광역시 교육감상) — [repo](https://github.com/kms1212/2022-busanedu-ai-project)
+* 2022 AI 기반 프로젝트 경진대회 1위 (부산광역시 교육감상), [repo](https://github.com/kms1212/2022-busanedu-ai-project)
 * 2020 대학부설 과학영재교육원 사사과정 연구성과 발표대회 한국과학기술원 총장상
 * 부산대학교 과학영재교육원 IT-수학융합 심화·사사과정 수료
 * 부산광역시교육청 미래교육원 정보영재과정 수료
